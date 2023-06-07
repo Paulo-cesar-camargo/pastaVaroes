@@ -76,7 +76,7 @@ body{
         grid-template-columns: auto;
     }
 }
-@media screen and (max-width:374px) {
+@media screen and (min-width:374px) {
     .footer_content{
         display: grid;
         grid-template-columns: auto;
