@@ -81,7 +81,7 @@ body{
         display: grid;
         grid-template-columns: auto;
     }
-     .corpo{
-    margin-left:1px;
-}
+     .bt-bt{
+        width: 150px;  
+    }
 }
