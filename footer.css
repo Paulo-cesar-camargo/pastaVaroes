@@ -66,7 +66,7 @@ body{
         text-align: center;
     }
     .corpo{
-    margin-left:10px;
+    margin-left:1px;
 }
 }
 
@@ -75,13 +75,8 @@ body{
         display: grid;
         grid-template-columns: auto;
     }
-}
-@media screen and (min-width:374px) {
-    .footer_content{
-        display: grid;
-        grid-template-columns: auto;
-    }
-     .bt-bt{
+    .bt-bt{
         width: 150px;  
     }
 }
+
