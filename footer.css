@@ -53,20 +53,20 @@ body{
     background: transparent;
     padding: 20px;
     padding-top: 20px;
-    width: 170px;
+    width: 180px;
     align-items: center;
     border-radius: 10PX;
     border-color: #fff;
 
 }
-@media screen and (max-width:767px){
+@media screen and (max-width:360px){
     .titulo1 h1{
         font-size: 30px;
         color: #fff;
         text-align: center;
     }
     .corpo{
-    margin-left:0px;
+    margin-left:10px;
    }
    
 }
