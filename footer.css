@@ -68,9 +68,7 @@ body{
     .corpo{
     margin-left:10px;
    }
-    .bt-bt{
-        width: 170px;  
-    }
+   
 }
 
 @media screen and (max-width:767px) {
