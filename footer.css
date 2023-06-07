@@ -1,0 +1,40 @@
+.footer_content{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 40px;
+    background-color: rgb(99, 97, 97);
+}
+.footer_content p{
+    color: black;
+}
+.footer_copy{
+    background-color: rgb(48, 44, 44);
+    text-align: center;
+    height: 30px;
+    color: #fff;
+}
+.footer_subscrit{
+    padding-right: 40px;
+}
+i{
+    font-size: 30px;
+    padding-right: 20px;
+}
+li p{
+    color: black;
+}
+.footer_subscrit p{
+    color: black;
+}
+.bi-whatsapp{
+    color: #0ccf1c;
+}
+.bi-facebook{
+    color: blue;
+}
+@media screen and (max-width:767px) {
+    .footer_content{
+        display: grid;
+        grid-template-columns: auto;
+    }
+}
