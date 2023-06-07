@@ -65,7 +65,9 @@ body{
         color: #fff;
         text-align: center;
     }
-    
+    .corpo{
+    margin-left:10px
+}
 }
 
 @media screen and (max-width:767px) {
